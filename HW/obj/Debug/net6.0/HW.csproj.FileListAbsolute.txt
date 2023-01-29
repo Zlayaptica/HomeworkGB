@@ -1,0 +1,15 @@
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\bin\Debug\net6.0\HW.exe
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\bin\Debug\net6.0\HW.deps.json
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\bin\Debug\net6.0\HW.dll
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\bin\Debug\net6.0\HW.pdb
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\HW.dll
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\refint\HW.dll
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\HW.pdb
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+C:\Users\Админ\Documents\IT\GeekBrains\Обязательное ДЗ\HW\HomeworkGB\HW\obj\Debug\net6.0\ref\HW.dll
